@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alanoud-ealjedea
-- 👀 I’m interested in smart automotive systems
-- 🌱 I’m currently learning SWE
-- 💞️ I’m looking to collaborate on exciting projects
+- 👀 I’m interested in smart cars
+- 🌱 I’m currently learning SoftWare Engineering 
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: alanoudaljedea@gmail.com
 - ⚡ Fun fact: Coffee expert, love plants
 
